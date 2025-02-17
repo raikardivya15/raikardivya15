@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @raikardivya15
+# 👋 Hi, I’m @raikar-divya
 
-- 🌱 I’m currently learning CSE
+- 👀 I’m interested in building impactful software solutions, designing intuitive UI/UX, and exploring innovations in cybersecurity and machine learning.  
+- 🌱 I’m currently learning advanced machine learning techniques, deep learning methods, and portfolio optimization strategies.  
+- 💞️ I’m looking to collaborate on projects involving financial analysis, creative UI/UX design, and developing tools for cybersecurity or mental health awareness.  
+- 📫 How to reach me:  
+  - LinkedIn: [Divya Raikar](https://www.linkedin.com/in/raikardivya15/)  
+  - Email: raikardivya15@gmail.com  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I run *KaleidoDiv*, a creative space on Instagram where I share my passion for painting and art.  
 
-
-<!---
-raikardivya15/raikardivya15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ Let’s create something amazing together! ✨
