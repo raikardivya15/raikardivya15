@@ -1,40 +1,42 @@
 # 👋 Hi, I’m Divya Raikar (@raikardivya15)
 
 ## 👩‍💻 About Me  
-- 🌱 Passionate about **building impactful software solutions**
-- ```js
-  while (!success) {
+
+- 🌱 Passionate about **building impactful software solutions**  
+```js
+while (!success) {
     learn();
     build();
     improve();
 }
 // - Divya Raikar
-- 🎨 Designing **intuitive UI/UX** for web and mobile applications
-- ```js
+🎨 Designing intuitive UI/UX for web and mobile applications
+
+js
+Copy code
 for (idea in mind) {
     code(idea);
     if (innovation) break;
 }
 // - Divya Raikar
+🔐 Exploring cybersecurity and machine learning
 
-// - Divya Raikar
-- 🔐 Exploring **cybersecurity** and **machine learning**
-  ```js
-  if (system.secure && code.optimized) {
+js
+Copy code
+if (system.secure && code.optimized) {
     deploy(success);
 }
 // - Divya Raikar
+📊 Interested in financial analysis & data-driven insights
 
-- 📊 Interested in **financial analysis & data-driven insights**  
- ```js
+js
+Copy code
 if (challenge) {
     debug(life);
     code++;
     growth++;
 }
 // - Divya Raikar
-
----
 -
 ## 💻 Tech Stack  
 ## 🛠️ Tech Stack  
@@ -165,5 +167,4 @@ if (codeWorking) {
     }
 }
 // - Divya Raikar
-
 
