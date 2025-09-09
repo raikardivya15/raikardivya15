@@ -10,6 +10,6 @@ Passionate about crafting intuitive user experiences and building interactive ap
   - LinkedIn: [Divya Raikar](https://www.linkedin.com/in/raikardivya15/)  
   - Email: raikardivya15@gmail.com  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I run *KaleidoDiv*, a creative space on Instagram where I share my passion for painting and art.  
+
 
 ✨ Let’s create something amazing together! ✨
