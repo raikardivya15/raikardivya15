@@ -3,7 +3,45 @@
 ## 👩‍💻 About Me  
 
 - 🌱 Passionate about **building impactful software solutions**  
+```js
+while (!success) {
+    learn();
+    build();
+    improve();
+}
+// - Divya Raikar
+```
+- 🎨 Designing intuitive UI/UX for web and mobile applications
 
+```js
+Copy code
+for (idea in mind) {
+    code(idea);
+    if (innovation) break;
+}
+// - Divya Raikar
+```
+- 🔐 Exploring cybersecurity and machine learning
+
+```js
+Copy code
+if (system.secure && code.optimized) {
+    deploy(success);
+}
+// - Divya Raikar
+```
+- 📊 Interested in financial analysis & data-driven insights
+
+```js
+Copy code
+if (challenge) {
+    debug(life);
+    code++;
+    growth++;
+}
+// - Divya Raikar
+```
+-
 
 ### 💻 Languages  
 <p align="center">
