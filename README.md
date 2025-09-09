@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @raikar-divya
+# 👋 Hi, I’m @raikardivya15
 
 - 👀 I’m interested in building impactful software solutions, designing intuitive UI/UX, and exploring innovations in cybersecurity and machine learning.
 - :
