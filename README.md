@@ -1,10 +1,34 @@
 # 👋 Hi, I’m Divya Raikar (@raikardivya15)
 
 ## 👩‍💻 About Me  
-- 🌱 Passionate about **building impactful software solutions**  
-- 🎨 Designing **intuitive UI/UX** for web and mobile applications  
-- 🔐 Exploring **cybersecurity** and **machine learning**  
+- 🌱 Passionate about **building impactful software solutions**
+  while (!success) {
+    learn();
+    build();
+    improve();
+}
+// - Divya Raikar
+- 🎨 Designing **intuitive UI/UX** for web and mobile applications
+for (idea in mind) {
+    code(idea);
+    if (innovation) break;
+}
+// - Divya Raikar
+
+// - Divya Raikar
+- 🔐 Exploring **cybersecurity** and **machine learning**
+  if (system.secure && code.optimized) {
+    deploy(success);
+}
+// - Divya Raikar
+
 - 📊 Interested in **financial analysis & data-driven insights**  
+if (challenge) {
+    debug(life);
+    code++;
+    growth++;
+}
+// - Divya Raikar
 
 ---
 
