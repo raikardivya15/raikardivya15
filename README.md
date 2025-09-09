@@ -2,6 +2,7 @@
 
 ## 👩‍💻 About Me  
 - 🌱 Passionate about **building impactful software solutions**
+- ```js
   while (!success) {
     learn();
     build();
@@ -9,6 +10,7 @@
 }
 // - Divya Raikar
 - 🎨 Designing **intuitive UI/UX** for web and mobile applications
+- ```js
 for (idea in mind) {
     code(idea);
     if (innovation) break;
@@ -17,12 +19,14 @@ for (idea in mind) {
 
 // - Divya Raikar
 - 🔐 Exploring **cybersecurity** and **machine learning**
+  ```js
   if (system.secure && code.optimized) {
     deploy(success);
 }
 // - Divya Raikar
 
 - 📊 Interested in **financial analysis & data-driven insights**  
+ ```js
 if (challenge) {
     debug(life);
     code++;
@@ -31,7 +35,7 @@ if (challenge) {
 // - Divya Raikar
 
 ---
-
+-
 ## 💻 Tech Stack  
 ## 🛠️ Tech Stack  
 
