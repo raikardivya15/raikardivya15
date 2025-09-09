@@ -3,12 +3,6 @@
 ## 👩‍💻 About Me  
 
 - 🌱 Passionate about **building impactful software solutions**  
-```js
-while (!success) {
-    learn();
-    build();
-    improve();
-}
 
 
 ### 💻 Languages  
