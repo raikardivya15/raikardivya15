@@ -162,11 +162,3 @@ if (challenge) {
 
 ---
 
-```js
-if (codeWorking) {
-    while (codeQuality < perfectCode) {
-        codeQuality++;
-    }
-}
-// - Divya Raikar
-
