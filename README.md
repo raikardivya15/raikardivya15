@@ -13,7 +13,7 @@
 - 💻 UI/UX Designer and Developer  
 - 🌱 Currently learning **Full Stack Development & Machine Learning**  
 - 🚀 Building meaningful digital experiences  
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **raikardivya15@gmail.com**
 
 ---
 
