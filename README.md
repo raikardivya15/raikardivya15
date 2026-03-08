@@ -1,40 +1,180 @@
-## Hi 👋 I'm Divya
+<h1 align="center">Hi 👋, I'm Divya Raikar</h1>
+<h3 align="center">UI/UX Designer | Full Stack Developer | Creative Artist</h3>
 
-💻 UI/UX Designer | Developer  
-🎨 Artist | Creative Technologist  
-
----
-
-### 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Figma](https://img.shields.io/badge/Figma-pink)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=UI%2FUX+Designer;Full+Stack+Developer;Creative+Technologist;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 👩‍💻 About Me
 
-![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=raikardivya15&show_icons=true&theme=radical)
-
----
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=raikardivya15&theme=radical)
-
----
-
-### 📌 Featured Projects
-
-- 🔐 PhishGuard – Phishing detection tool  
-- 🎫 Support Ticket System  
-- 🌍 Diventure – Adventure travel platform  
+- 🎨 Artist & Creative Thinker  
+- 💻 UI/UX Designer and Developer  
+- 🌱 Currently learning **Full Stack Development & Machine Learning**  
+- 🚀 Building meaningful digital experiences  
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
 ### 🌐 Connect With Me
 
-[Portfolio](#)  
-[LinkedIn](#)
+<p align="left">
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/raikardivya15">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,figma,git,github,vscode"/>
+
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🔐 **PhishGuard** – Phishing detection system  
+- 🎫 **Support Ticket System** – Customer support platform  
+- 🌍 **Diventure** – Adventure travel discovery app  
+- 🧘 **Mindfulness App** – Meditation & habit tracker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raikardivya15&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=raikardivya15&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikardivya15&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+⭐ From [Divya Raikar](https://github.com/raikardivya15)
+<h1 align="center">Hi 👋, I'm Divya Raikar</h1>
+<h3 align="center">UI/UX Designer | Full Stack Developer | Creative Artist</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=UI%2FUX+Designer;Full+Stack+Developer;Creative+Technologist;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎨 Artist & Creative Thinker  
+- 💻 UI/UX Designer and Developer  
+- 🌱 Currently learning **Full Stack Development & Machine Learning**  
+- 🚀 Building meaningful digital experiences  
+- 📫 Reach me: **your-email@example.com**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/raikardivya15">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,figma,git,github,vscode"/>
+
+</p>
+
+---
+
+### 🚀 Projects
+
+- 🔐 **PhishGuard** – Phishing detection system  
+- 🎫 **Support Ticket System** – Customer support platform  
+- 🌍 **Diventure** – Adventure travel discovery app  
+- 🧘 **Mindfulness App** – Meditation & habit tracker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raikardivya15&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=raikardivya15&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikardivya15&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+⭐ From [Divya Raikar](https://github.com/raikardivya15)
