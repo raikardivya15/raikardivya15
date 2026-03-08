@@ -20,17 +20,31 @@
 
 ---
 
-### 🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 
-<p align="left">
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<p align="center">
+
+<a href="https://instagram.com/raikardivya">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
+
+<a href="https://linkedin.com/in/raikardivya15">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://twitter.com/raikardivya">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
 <a href="https://github.com/raikardivya15">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-</p>
 
+<a href="https://raikardivya15.github.io">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40"/>
+</a>
+
+</p>
 ---
 
 ### 🛠 Languages and Tools
