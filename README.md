@@ -55,46 +55,8 @@
 
 </p>
 
----
 
-### 🚀 Projects
 
-- 🔐 **PhishGuard** – Phishing detection system  
-- 🎫 **Support Ticket System** – Customer support platform  
-- 🌍 **Diventure** – Adventure travel discovery app  
-- 🧘 **Mindfulness App** – Meditation & habit tracker
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=raikardivya15&show_icons=true&theme=tokyonight"/>
-
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=raikardivya15&theme=tokyonight"/>
-
-</p>
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikardivya15&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
