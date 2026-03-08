@@ -1,3 +1,6 @@
+<p align="center">
+<img src="banner.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Divya Raikar</h1>
 <h3 align="center">UI/UX Designer | Full Stack Developer | Creative Artist</h3>
 
