@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<a href="https://instagram.com/raikardivya">
+<a href="https://instagram.com/raikardivya15">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://twitter.com/raikardivya">
+<a href="https://twitter.com/raikardivya15">
 <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
 
