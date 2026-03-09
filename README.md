@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+<h3 align="center">🌐 Connect With Me </h3>
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 </p>
 
-### 🛠 Languages and Tools
+<h3 align="center"> 🛠 Languages and Tools</h3>
 
 <p align="center">
 
@@ -57,7 +57,8 @@
 
 
 
-### 🐍 Contribution Snake
+
+<h3 align="center"> 🐍 Contribution Snake </h3>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
