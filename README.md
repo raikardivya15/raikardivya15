@@ -48,7 +48,7 @@
 
 ### 🛠 Languages and Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,figma,git,github,vscode"/>
 
