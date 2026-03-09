@@ -70,4 +70,4 @@
 ---
 
 Being Imperfectly , perfectly differnt 🖤 
--[Divya Raikar](https://github.com/raikardivya15)
+<h6 align="right">-[Divya Raikar](https://github.com/raikardivya15) <h6></h6>
