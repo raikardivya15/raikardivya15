@@ -45,29 +45,7 @@
 </a>
 
 </p>
-<h3 align="center">Connect with me</h3>
 
-<p align="center">
-<a href="https://instagram.com/raikardivya" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
-</a>
-
-<a href="https://linkedin.com/in/raikardivya15" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
-
-<a href="https://twitter.com/raikardivya" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
-</a>
-
-<a href="https://github.com/raikardivya15" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</a>
-
-<a href="https://raikardivya15.github.io" target="_blank">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40"/>
-</a>
-</p>
 <h3 align="center"> 🛠 Languages and Tools</h3>
 
 <p align="center">
