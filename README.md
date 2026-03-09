@@ -69,4 +69,4 @@
 
 ---
 
-Being Imperfectly , perfectly differnt 🖤 <h6 align="right">-[Divya Raikar](https://github.com/raikardivya15)</h6>
+Being imperfectly , perfectly different 🖤 <h6 align="right">-[Divya Raikar](https://github.com/raikardivya15)</h6>
