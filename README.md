@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://raikardivya15.github.io">
+<a href="https://raikardivya15.me">
 <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="40"/>
 </a>
 
